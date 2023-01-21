@@ -1,0 +1,830 @@
+[
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Data Binding in React",
+    "link": "https://www.joshwcomeau.com/react/data-binding/",
+    "pubDate": "2023-01-18T19:52:53.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Clever Code Considered Harmful",
+    "link": "https://www.joshwcomeau.com/career/clever-code-considered-harmful/",
+    "pubDate": "2023-01-16T20:45:20.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "An Interactive Guide to Flexbox",
+    "link": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+    "pubDate": "2023-01-13T00:15:30.000Z"
+  },
+  {
+    "site": "Blog | Christian Penrod",
+    "title": "Astro Shiki Syntax Highlighting with CSS Variables",
+    "link": "https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/",
+    "pubDate": "2023-01-09T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "A World-Class Code Playground with Sandpack",
+    "link": "https://www.joshwcomeau.com/react/next-level-playground/",
+    "pubDate": "2023-01-08T23:28:47.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How do I get started in web development?",
+    "link": "https://whitep4nth3r.com/blog/how-do-i-get-started-in-web-development/",
+    "pubDate": "2023-01-06T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "2022: what I made, what I learned, and what I didn't do",
+    "link": "https://whitep4nth3r.com/blog/2022-in-review/",
+    "pubDate": "2023-01-03T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Color Formats in CSS",
+    "link": "https://www.joshwcomeau.com/css/color-formats/",
+    "pubDate": "2022-12-15T18:17:14.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Why React Re-Renders",
+    "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+    "pubDate": "2022-12-12T18:03:31.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to get the user’s timezone in JavaScript with Edge Functions",
+    "link": "https://ntl.fyi/3FjEMGX",
+    "pubDate": "2022-12-12T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Surprising Truth About Pixels and Accessibility",
+    "link": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+    "pubDate": "2022-11-29T23:10:10.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "My Custom CSS Reset",
+    "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+    "pubDate": "2022-11-29T23:10:10.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "CSS Variables for React Devs",
+    "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+    "pubDate": "2022-11-29T23:10:10.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Importance of Learning CSS",
+    "link": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+    "pubDate": "2022-11-23T17:58:58.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Refreshing Server-Side Props",
+    "link": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
+    "pubDate": "2022-11-23T16:47:32.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "A responsive striped CSS gradient inspired by 80s VHS tapes",
+    "link": "https://whitep4nth3r.com/blog/responsive-striped-css-pattern-80s-vhs-tapes/",
+    "pubDate": "2022-11-22T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Designing Beautiful Shadows in CSS",
+    "link": "https://www.joshwcomeau.com/css/designing-shadows/",
+    "pubDate": "2022-11-20T22:28:18.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "An Interactive Guide to CSS Transitions",
+    "link": "https://www.joshwcomeau.com/animation/css-transitions/",
+    "pubDate": "2022-11-20T22:17:43.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Single-page applications, multi-page applications, the history of Twitter tech, and a failed project",
+    "link": "https://whitep4nth3r.com/blog/twitter-tech-history-spa/",
+    "pubDate": "2022-11-15T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Personalize your static site based on a previous site referral",
+    "link": "https://ntl.fyi/3SBU2DY",
+    "pubDate": "2022-10-25T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "I changed my mind about writing new JavaScript frameworks",
+    "link": "https://whitep4nth3r.com/blog/write-a-new-javascript-framework/",
+    "pubDate": "2022-10-03T23:00:00.000Z"
+  },
+  {
+    "site": "Blog | Christian Penrod",
+    "title": "Tailwind CSS Responsive Design Without Breakpoints",
+    "link": "https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/",
+    "pubDate": "2022-09-17T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Rewrite your git history in 4 friendly commands",
+    "link": "https://whitep4nth3r.com/blog/rewrite-git-history/",
+    "pubDate": "2022-09-05T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "What's the difference between : and :: in CSS?",
+    "link": "https://whitep4nth3r.com/blog/pseudo-classes-and-pseudo-elements/",
+    "pubDate": "2022-08-31T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Understanding useMemo and useCallback",
+    "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+    "pubDate": "2022-08-30T13:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Rewrite HTML and transform page props in Next.js with Next.js Advanced Middleware",
+    "link": "https://ntl.fyi/nextjs-rewrite-html-at-the-edge",
+    "pubDate": "2022-08-24T15:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Add personalization to static HTML with Netlify Edge Functions — no browser JavaScript required",
+    "link": "https://www.netlify.com/blog/add-personalization-to-static-html-with-edge-functions-no-browser-javascript/",
+    "pubDate": "2022-08-11T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "We're all living on it. But what exactly is The Edge?",
+    "link": "https://whitep4nth3r.com/talks/were-all-living-on-it-but-what-exactly-is-the-edge/",
+    "pubDate": "2022-08-10T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to view Google Lighthouse scores for your site in Netlify",
+    "link": "https://www.netlify.com/blog/view-google-lighthouse-scores-visualizations/",
+    "pubDate": "2022-07-24T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Statements Vs. Expressions",
+    "link": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
+    "pubDate": "2022-07-11T10:30:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "My Wonderful HTML Email Workflow",
+    "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
+    "pubDate": "2022-06-27T12:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Should I write a new JavaScript framework?",
+    "link": "https://whitep4nth3r.com/blog/should-i-write-a-new-javascript-framework/",
+    "pubDate": "2022-06-22T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to deploy an Astro site",
+    "link": "https://www.netlify.com/blog/how-to-deploy-astro/",
+    "pubDate": "2022-06-12T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Build a business card CLI tool",
+    "link": "https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/",
+    "pubDate": "2022-06-08T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Level up your link previews in Slack",
+    "link": "https://whitep4nth3r.com/blog/level-up-your-link-previews-in-slack/",
+    "pubDate": "2022-05-29T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Light and dark mode in just 14 lines of CSS",
+    "link": "https://whitep4nth3r.com/blog/quick-light-dark-mode-css/",
+    "pubDate": "2022-05-11T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "What is Jamstack?",
+    "link": "https://whitep4nth3r.com/blog/what-is-jamstack/",
+    "pubDate": "2022-05-10T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "You Don’t Need a UI Framework",
+    "link": "https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+    "pubDate": "2022-05-03T11:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "We're all living on it. But what exactly is The Edge?",
+    "link": "https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/",
+    "pubDate": "2022-04-26T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Front-End Developer's Guide to the Terminal",
+    "link": "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/",
+    "pubDate": "2022-04-19T10:30:00.000Z"
+  },
+  {
+    "site": "Blog | Christian Penrod",
+    "title": "Developing Browser Extensions with Next.js",
+    "link": "https://christianpenrod.com/blog/developing-browser-extensions-with-nextjs/",
+    "pubDate": "2022-04-19T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "HTML is all you need to make a website",
+    "link": "https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/",
+    "pubDate": "2022-04-04T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How I massively improved my website performance by using the right tool for the job",
+    "link": "https://whitep4nth3r.com/blog/how-i-improved-website-performance/",
+    "pubDate": "2022-03-29T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Understanding Layout Algorithms",
+    "link": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+    "pubDate": "2022-03-28T11:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to format dates for RSS feeds (RFC-822)",
+    "link": "https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/",
+    "pubDate": "2022-03-21T00:00:00.000Z"
+  },
+  {
+    "site": "Blog | Christian Penrod",
+    "title": "Hyper Terminal and its arsenal of plugins",
+    "link": "https://christianpenrod.com/blog/hyper-terminal-and-its-arsenal-of-plugins/",
+    "pubDate": "2022-03-17T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Delightful React File/Directory Structure",
+    "link": "https://www.joshwcomeau.com/react/file-structure/",
+    "pubDate": "2022-03-15T13:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to delete all merged git branches with one terminal command ",
+    "link": "https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/",
+    "pubDate": "2022-03-07T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Why you should ship your silly side projects",
+    "link": "https://whitep4nth3r.com/blog/why-ship-silly-side-projects/",
+    "pubDate": "2022-03-04T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "A prototype is all you need to launch a site",
+    "link": "https://whitep4nth3r.com/blog/women-of-jamstack-prototype-eleventy/",
+    "pubDate": "2022-03-01T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Build a CMS preview workflow for your Jamstack site",
+    "link": "https://www.netlify.com/blog/previewing-posts-best-decoupled-content-management-workflow-for-your-static-site/",
+    "pubDate": "2022-02-22T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to deploy your Netlify site with an Elgato Stream Deck",
+    "link": "https://www.netlify.com/blog/how-to-deploy-your-netlify-site-with-an-elgato-stream-deck/",
+    "pubDate": "2022-02-15T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How I improved your Google Lighthouse SEO score with a lot of research and one quick PR",
+    "link": "https://whitep4nth3r.com/blog/improved-google-lighthouse-seo-score/",
+    "pubDate": "2022-02-13T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to build an HTML-only accordion — no JavaScript required!",
+    "link": "https://whitep4nth3r.com/blog/how-to-build-html-accordion-no-javascript/",
+    "pubDate": "2022-02-11T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Debug your CSS layouts with this one simple trick",
+    "link": "https://whitep4nth3r.com/blog/debug-css-layouts/",
+    "pubDate": "2022-02-06T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "What The Heck, z-index??",
+    "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
+    "pubDate": "2022-01-27T09:49:38.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to use really long environment variables in Netlify functions",
+    "link": "https://www.netlify.com/blog/how-to-use-really-long-environment-variables-in-netlify-functions/",
+    "pubDate": "2022-01-18T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Make Beautiful Gradients",
+    "link": "https://www.joshwcomeau.com/css/make-beautiful-gradients/",
+    "pubDate": "2022-01-11T14:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Building a Magical 3D Button",
+    "link": "https://www.joshwcomeau.com/animation/3d-button/",
+    "pubDate": "2022-01-01T13:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Magical Rainbow Gradients",
+    "link": "https://www.joshwcomeau.com/react/rainbow-button/",
+    "pubDate": "2022-01-01T13:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Folding the DOM",
+    "link": "https://www.joshwcomeau.com/react/folding-the-dom/",
+    "pubDate": "2022-01-01T13:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "An introduction to GraphQL and how to use GraphQL APIs",
+    "link": "https://www.contentful.com/blog/2021/12/13/what-is-graphql/",
+    "pubDate": "2021-12-13T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to load responsive images in AVIF and WebP using the HTML picture element",
+    "link": "https://www.contentful.com/blog/2021/11/29/load-avif-webp-using-html/",
+    "pubDate": "2021-11-29T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Introducing “Shadow Palette Generator”",
+    "link": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
+    "pubDate": "2021-11-16T14:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Contentful's Fast Forward 2021 Day 2 Keynote",
+    "link": "https://whitep4nth3r.com/talks/contentful-fast-forward-2021-day-2-keynote/",
+    "pubDate": "2021-11-04T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "TIL: How to use GraphQL variables to give my queries type safety",
+    "link": "https://www.contentful.com/blog/2021/10/22/how-to-use-graphql-variables/",
+    "pubDate": "2021-10-21T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Next.js Dynamic Routes with Contentful's GraphQL API — with Jason Lengstorf",
+    "link": "https://whitep4nth3r.com/blog/next-js-dynamic-routes-with-contentfuls-graphql-api-with-jason-lengstorf/",
+    "pubDate": "2021-10-10T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Accessible Animations in React",
+    "link": "https://www.joshwcomeau.com/react/prefers-reduced-motion/",
+    "pubDate": "2021-10-06T05:42:21.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "What is a REST API?",
+    "link": "https://www.contentful.com/blog/2021/10/04/what-is-a-rest-api/",
+    "pubDate": "2021-10-04T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "An Interactive Guide to Keyframe Animations",
+    "link": "https://www.joshwcomeau.com/animation/keyframe-animations/",
+    "pubDate": "2021-09-28T14:03:38.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The World of CSS Transforms",
+    "link": "https://www.joshwcomeau.com/css/transforms/",
+    "pubDate": "2021-09-28T14:03:38.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Full-Bleed Layout Using CSS Grid",
+    "link": "https://www.joshwcomeau.com/css/full-bleed/",
+    "pubDate": "2021-09-28T14:03:38.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "This box will change your life",
+    "link": "https://whitep4nth3r.com/talks/this-box-will-change-your-life/",
+    "pubDate": "2021-09-23T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "How To Learn Stuff Quickly",
+    "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+    "pubDate": "2021-09-22T17:07:02.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Why I love Polywork as a developer advocate — and it's not for the reason you think",
+    "link": "https://whitep4nth3r.com/blog/why-i-love-polywork-as-a-developer-advocate/",
+    "pubDate": "2021-09-20T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Ecommerce and Next.js on the Jamstack — with Colby Fayock",
+    "link": "https://whitep4nth3r.com/blog/ecommerce-next-js-jamstack-colby-fayock/",
+    "pubDate": "2021-09-16T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to build a personalized image social sharing app with Cloudinary and Next.js",
+    "link": "https://www.contentful.com/blog/2021/09/08/personalized-image-social-sharing-with-cloudinary-nextjs/",
+    "pubDate": "2021-09-07T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Why I love building with Next.js — a fireside chat with Cassidy Williams of Netlify",
+    "link": "https://whitep4nth3r.com/blog/building-with-nextjs-cassidy-williams-netlify-fireside-chat/",
+    "pubDate": "2021-09-01T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Generate an SEO-Friendly Sitemap for your Gatsby Site",
+    "link": "https://www.joshwcomeau.com/gatsby/seo-friendly-sitemap/",
+    "pubDate": "2021-08-30T20:41:53.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "What is an API?",
+    "link": "https://www.contentful.com/blog/2021/08/12/what-is-an-api/",
+    "pubDate": "2021-08-11T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "A Next.js complete beginner tutorial using the Spotify API",
+    "link": "https://whitep4nth3r.com/blog/next-js-beginner-tutorial-using-spotify-api/",
+    "pubDate": "2021-08-04T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Finding your first remote job",
+    "link": "https://www.joshwcomeau.com/career/remote-work-pt2/",
+    "pubDate": "2021-07-20T14:40:45.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to avoid using relative path imports in Next.js",
+    "link": "https://whitep4nth3r.com/blog/how-to-avoid-using-relative-path-imports-next-js/",
+    "pubDate": "2021-07-11T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How I set up my new Next.js projects with a handy bash script",
+    "link": "https://whitep4nth3r.com/blog/how-to-set-up-new-next-js-projects-with-bash-script/",
+    "pubDate": "2021-07-08T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to add Algolia InstantSearch to your Next.js application",
+    "link": "https://www.contentful.com/blog/2021/07/02/add-algolia-instantsearch-to-nextjs-app/",
+    "pubDate": "2021-07-01T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Demystifying styled-components",
+    "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+    "pubDate": "2021-06-27T14:13:55.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to prevent the collapse of society by building an accessible web",
+    "link": "https://whitep4nth3r.com/talks/how-to-prevent-the-collapse-of-society-by-building-an-accessible-web/",
+    "pubDate": "2021-06-22T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to filter entries by linked references in GraphQL",
+    "link": "https://www.contentful.com/blog/2021/06/15/filter-entries-by-linked-references-in-graphql-api/",
+    "pubDate": "2021-06-14T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Let's Bring Spacer GIFs Back!",
+    "link": "https://www.joshwcomeau.com/react/modern-spacer-gif/",
+    "pubDate": "2021-06-10T14:31:26.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Boop!",
+    "link": "https://www.joshwcomeau.com/react/boop/",
+    "pubDate": "2021-06-10T14:31:26.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Announcing “use-sound”, a React Hook for Sound Effects",
+    "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+    "pubDate": "2021-06-10T14:31:26.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Becoming a Software Developer Without a CS Degree",
+    "link": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
+    "pubDate": "2021-06-10T14:31:26.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "How I Built My Blog",
+    "link": "https://www.joshwcomeau.com/blog/how-i-built-my-blog/",
+    "pubDate": "2021-06-09T19:32:34.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Rules of Margin Collapse",
+    "link": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+    "pubDate": "2021-06-09T19:32:34.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Perils of Rehydration",
+    "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+    "pubDate": "2021-05-30T14:32:03.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to use GitHub actions and Contentful webhooks to show your latest blog posts on your GitHub README",
+    "link": "https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme/",
+    "pubDate": "2021-05-27T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Rich Text field tips and tricks from the Contentful DevRel team",
+    "link": "https://www.contentful.com/blog/2021/05/27/rich-text-field-tips-and-tricks/",
+    "pubDate": "2021-05-26T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to make your font sizes accessible with CSS",
+    "link": "https://whitep4nth3r.com/blog/how-to-make-your-font-sizes-accessible-with-css/",
+    "pubDate": "2021-05-16T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "What is BEM in CSS?",
+    "link": "https://whitep4nth3r.com/blog/what-is-bem-in-css/",
+    "pubDate": "2021-05-10T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "When to use aria-labels in your HTML",
+    "link": "https://whitep4nth3r.com/blog/when-to-use-aria-labels-in-your-html/",
+    "pubDate": "2021-05-03T23:00:00.000Z"
+  },
+  {
+    "site": "Blog | Christian Penrod",
+    "title": "Local State with NgRx & Apollo Angular",
+    "link": "https://christianpenrod.com/blog/local-state-with-ngrx-and-apollo-angular/",
+    "pubDate": "2021-05-01T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Paginating your Contentful blog posts in Next.js with the GraphQL API",
+    "link": "https://www.contentful.com/blog/2021/04/23/paginating-contentful-blogposts-with-nextjs-graphql-api/",
+    "pubDate": "2021-04-22T23:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Why My Blog is Closed-Source",
+    "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+    "pubDate": "2021-04-14T13:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Exploring linked entries and assets in Contentful with JavaScript via REST and GraphQL",
+    "link": "https://www.contentful.com/blog/2021/04/14/exploring-linked-entries-assets-contentful/",
+    "pubDate": "2021-04-13T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "Rendering linked assets and entries in the Contentful Rich Text field",
+    "link": "https://www.contentful.com/blog/2021/04/14/rendering-linked-assets-entries-in-contentful/",
+    "pubDate": "2021-04-13T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to build, test and release a node module in ES6",
+    "link": "https://whitep4nth3r.com/blog/how-to-build-test-and-release-node-module-es6/",
+    "pubDate": "2021-04-10T23:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "3 ways to use Puppeteer and Node.js to screenshot web pages and generate Open Graph images for socials",
+    "link": "https://www.contentful.com/blog/2021/03/17/puppeteer-node-open-graph-screenshot-for-socials/",
+    "pubDate": "2021-03-17T15:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "My Twitch live coding setup in OBS",
+    "link": "https://whitep4nth3r.com/blog/twitch-live-coding-setup-obs/",
+    "pubDate": "2021-03-13T20:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to generate an RSS feed for your blog with JavaScript and Netlify functions",
+    "link": "https://www.contentful.com/blog/2021/03/05/generate-blog-rss-feed-with-javascript-and-netlify/",
+    "pubDate": "2021-03-08T09:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to make your code blocks accessible on your website",
+    "link": "https://whitep4nth3r.com/blog/how-to-make-your-code-blocks-accessible-on-your-website/",
+    "pubDate": "2021-02-26T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Embracing modern image formats",
+    "link": "https://www.joshwcomeau.com/performance/embracing-modern-image-formats/",
+    "pubDate": "2021-02-24T12:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The styled-components Happy Path",
+    "link": "https://www.joshwcomeau.com/css/styled-components/",
+    "pubDate": "2021-02-21T11:30:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "How to build a lightweight microblogging site with Contentful, vanilla HTML, CSS and JavaScript",
+    "link": "https://www.contentful.com/blog/2021/02/05/how-to-build-a-lightweight-blog/",
+    "pubDate": "2021-02-05T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "My non-traditional journey into tech and DevRel",
+    "link": "https://www.contentful.com/blog/2021/02/03/salma's-journey-into-tech-and-devrel/",
+    "pubDate": "2021-02-03T00:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "FAQs: Frequently Asked Questions",
+    "link": "https://whitep4nth3r.com/blog/faqs/",
+    "pubDate": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "2020 In Review",
+    "link": "https://www.joshwcomeau.com/blog/year-in-review-2020/",
+    "pubDate": "2020-12-23T14:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Hands-Free Coding",
+    "link": "https://www.joshwcomeau.com/blog/hands-free-coding/",
+    "pubDate": "2020-12-09T11:00:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "5 tips for leading teams with an empathy-first approach",
+    "link": "https://www.codecomputerlove.com/blog/5-tips-for-leading/",
+    "pubDate": "2020-11-23T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Chasing the Pixel-Perfect Dream",
+    "link": "https://www.joshwcomeau.com/css/pixel-perfection/",
+    "pubDate": "2020-11-02T15:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Building a Modern-Day Hit Counter",
+    "link": "https://www.joshwcomeau.com/react/serverless-hit-counter/",
+    "pubDate": "2020-09-28T12:30:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "A Friendly Introduction to Spring Physics",
+    "link": "https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/",
+    "pubDate": "2020-09-21T14:15:00.000Z"
+  },
+  {
+    "site": "whitep4nth3r.com RSS Feed",
+    "title": "6 things I learned about streaming live coding in my first 6 weeks on Twitch",
+    "link": "https://whitep4nth3r.com/blog/6-things-i-learned-about-streaming-live-coding-in-my-first-6-weeks-on-twitch/",
+    "pubDate": "2020-08-16T00:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The World’s Sneakiest Route Change",
+    "link": "https://www.joshwcomeau.com/gatsby/the-worlds-sneakiest-route-change/",
+    "pubDate": "2020-07-31T15:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "A Brief Hiatus",
+    "link": "https://www.joshwcomeau.com/blog/a-brief-hiatus/",
+    "pubDate": "2020-06-25T14:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Using Netlify Functions with Gatsby",
+    "link": "https://www.joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby/",
+    "pubDate": "2020-06-10T12:45:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Local Testing on an iPhone",
+    "link": "https://www.joshwcomeau.com/blog/local-testing-on-an-iphone/",
+    "pubDate": "2020-05-26T13:15:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Animated Sparkles in React",
+    "link": "https://www.joshwcomeau.com/react/animated-sparkles-in-react/",
+    "pubDate": "2020-05-19T11:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Lessons Learned Speaking at Conferences",
+    "link": "https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/",
+    "pubDate": "2020-05-06T16:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Incredimental Builds!",
+    "link": "https://www.joshwcomeau.com/gatsby/incredimental-builds/",
+    "pubDate": "2020-04-29T11:45:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Deploying Netlify Functions with Gatsby Cloud",
+    "link": "https://www.joshwcomeau.com/gatsby/netlify-functions-and-gatsby-cloud/",
+    "pubDate": "2020-04-28T19:30:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "The Quest for the Perfect Dark Mode",
+    "link": "https://www.joshwcomeau.com/react/dark-mode/",
+    "pubDate": "2020-04-22T00:45:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "A Static Future",
+    "link": "https://www.joshwcomeau.com/gatsby/a-static-future/",
+    "pubDate": "2020-04-08T10:45:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Styling Ordered Lists with CSS Counters",
+    "link": "https://www.joshwcomeau.com/css/styling-ordered-lists-with-css-counters/",
+    "pubDate": "2020-04-07T14:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Persisting React State in localStorage",
+    "link": "https://www.joshwcomeau.com/react/persisting-react-state-in-localstorage/",
+    "pubDate": "2020-02-24T17:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Effective Collaboration with Product and Design",
+    "link": "https://www.joshwcomeau.com/career/effective-collaboration/",
+    "pubDate": "2020-01-21T14:00:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "My experience as a remote worker",
+    "link": "https://www.joshwcomeau.com/career/remote-work/",
+    "pubDate": "2019-12-02T13:30:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Dynamic Bézier Curves",
+    "link": "https://www.joshwcomeau.com/animation/dynamic-bezier-curves/",
+    "pubDate": "2018-05-23T13:30:00.000Z"
+  },
+  {
+    "site": "Josh Comeau's blog",
+    "title": "Animating the Unanimatable",
+    "link": "https://www.joshwcomeau.com/react/animating-the-unanimatable/",
+    "pubDate": "2016-02-15T18:03:43.000Z"
+  }
+]
