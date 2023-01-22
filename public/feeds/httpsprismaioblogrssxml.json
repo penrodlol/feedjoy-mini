@@ -1,0 +1,676 @@
+{
+  "title": "Prisma Blog",
+  "link": "http://github.com/dylang/node-rss",
+  "items": [
+    {
+      "title": "Restructuring Prisma",
+      "link": "https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j",
+      "pubDate": "2023-01-20T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Accelerate in Early Access",
+      "link": "https://www.prisma.io/blog/announcing-accelerate-usrvpi6sfkv4",
+      "pubDate": "2023-01-16T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Is Expanding Its Executive Team",
+      "link": "https://www.prisma.io/blog/coo-announcement-aer1fgviirjb",
+      "pubDate": "2023-01-03T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q4/22)",
+      "link": "https://www.prisma.io/blog/wnip-q4-2022-f66prwkjx72s",
+      "pubDate": "2022-12-29T00:00:00.000Z"
+    },
+    {
+      "title": "The Ultimate Guide to Testing with Prisma: Mocking Prisma Client",
+      "link": "https://www.prisma.io/blog/testing-series-1-8eRB5p0Y8o",
+      "pubDate": "2022-12-22T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Playground: An Interactive Learning Experience for Prisma",
+      "link": "https://www.prisma.io/blog/announcing-prisma-playground-xeywknkj0e1p",
+      "pubDate": "2022-12-21T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Client Just Became a Lot More Flexible",
+      "link": "https://www.prisma.io/blog/client-extensions-preview-8t3w27xkrxxn",
+      "pubDate": "2022-12-19T00:00:00.000Z"
+    },
+    {
+      "title": "Building a REST API with NestJS and Prisma: Error Handling",
+      "link": "https://www.prisma.io/blog/nestjs-prisma-error-handling-7D056s1kOop2",
+      "pubDate": "2022-12-14T00:00:00.000Z"
+    },
+    {
+      "title": "How TypeScript 4.9 `satisfies` Your Prisma Workflows",
+      "link": "https://www.prisma.io/blog/satisfies-operator-ur8ys8ccq7zb",
+      "pubDate": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "title": "Try Prisma: The Fastest Way to Explore Prisma Examples",
+      "link": "https://www.prisma.io/blog/try-prisma-announcment-Kv6bwRcdjd",
+      "pubDate": "2022-11-25T00:00:00.000Z"
+    },
+    {
+      "title": "Database Metrics with Prisma, Prometheus & Grafana",
+      "link": "https://www.prisma.io/blog/metrics-tutorial-prisma-pmoldgq10kz",
+      "pubDate": "2022-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "Improving Query Performance with Indexes using Prisma: Hash Indexes",
+      "link": "https://www.prisma.io/blog/improving-query-performance-using-indexes-3-kduk351qv1",
+      "pubDate": "2022-10-12T00:00:00.000Z"
+    },
+    {
+      "title": "Improving Query Performance with Indexes using Prisma: B-Tree Index",
+      "link": "https://www.prisma.io/blog/improving-query-performance-using-indexes-2-MyoiJNMFTsfq",
+      "pubDate": "2022-09-16T00:00:00.000Z"
+    },
+    {
+      "title": "Improving Query Performance with Indexes using Prisma: Introduction",
+      "link": "https://www.prisma.io/blog/improving-query-performance-using-indexes-1-zuLNZwBkuL",
+      "pubDate": "2022-09-06T00:00:00.000Z"
+    },
+    {
+      "title": "Monitor Your Server with Tracing Using OpenTelemetry & Prisma",
+      "link": "https://www.prisma.io/blog/tracing-tutorial-prisma-pmkddgq1lm2",
+      "pubDate": "2022-09-05T00:00:00.000Z"
+    },
+    {
+      "title": "End-To-End Type-Safety with GraphQL, Prisma & React: Codegen & Deployment",
+      "link": "https://www.prisma.io/blog/e2e-type-safety-graphql-react-4-JaHA8GbkER",
+      "pubDate": "2022-09-01T00:00:00.000Z"
+    },
+    {
+      "title": "End-To-End Type-Safety with GraphQL, Prisma & React: GraphQL API",
+      "link": "https://www.prisma.io/blog/e2e-type-safety-graphql-react-3-fbV2ZVIGWg",
+      "pubDate": "2022-08-30T00:00:00.000Z"
+    },
+    {
+      "title": "End-To-End Type-Safety with GraphQL, Prisma & React: API Prep",
+      "link": "https://www.prisma.io/blog/e2e-type-safety-graphql-react-2-j9mEyHY0Ej",
+      "pubDate": "2022-08-29T00:00:00.000Z"
+    },
+    {
+      "title": "End-To-End Type-Safety with GraphQL, Prisma & React: Frontend",
+      "link": "https://www.prisma.io/blog/e2e-type-safety-graphql-react-1-I2GxIfxkSZ",
+      "pubDate": "2022-08-24T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Support for Tracing and Metrics Is Now in Preview",
+      "link": "https://www.prisma.io/blog/tracing-launch-announcement-pmk4rlpc0ll",
+      "pubDate": "2022-08-09T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q2/22)",
+      "link": "https://www.prisma.io/blog/wnip-q2-2022-pmn7rulcj8x",
+      "pubDate": "2022-08-03T00:00:00.000Z"
+    },
+    {
+      "title": "Database access on the Edge with Next.js, Vercel & Prisma Data Proxy",
+      "link": "https://www.prisma.io/blog/database-access-on-the-edge-8F0t1s1BqOJE",
+      "pubDate": "2022-07-29T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing the Prisma FOSS Fund",
+      "link": "https://www.prisma.io/blog/prisma-foss-fund-announcement-XW9DqI1HC24L",
+      "pubDate": "2022-07-20T00:00:00.000Z"
+    },
+    {
+      "title": "Building a REST API with NestJS and Prisma: Input Validation & Transformation",
+      "link": "https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1",
+      "pubDate": "2022-07-19T00:00:00.000Z"
+    },
+    {
+      "title": "The Prisma Data Platform is now Generally Available",
+      "link": "https://www.prisma.io/blog/prisma-data-platform-now-generally-available-8D058s1BqOL1",
+      "pubDate": "2022-06-16T00:00:00.000Z"
+    },
+    {
+      "title": "Building a REST API with NestJS and Prisma",
+      "link": "https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0",
+      "pubDate": "2022-06-03T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Support for CockroachDB Is Production Ready 🪳",
+      "link": "https://www.prisma.io/blog/cockroach-ga-5JrD9XVWQDYL",
+      "pubDate": "2022-05-25T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing Prisma Day 2022! Our First Hybrid Prisma Day.",
+      "link": "https://www.prisma.io/blog/prisma-day-2022-announcement-v8t178dsf",
+      "pubDate": "2022-05-11T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Raises $40M to Build the Application Data Platform",
+      "link": "https://www.prisma.io/blog/series-b-announcement-v8t12ksi6x",
+      "pubDate": "2022-05-03T00:00:00.000Z"
+    },
+    {
+      "title": "How Prisma helps Amplication evolutionize backend development",
+      "link": "https://www.prisma.io/blog/amplication-customer-story-nmlkBNlLlxnN",
+      "pubDate": "2022-04-29T00:00:00.000Z"
+    },
+    {
+      "title": "Build A Fullstack App with Remix, Prisma & MongoDB: Deployment",
+      "link": "https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-5-gOhQsnfUPXSx",
+      "pubDate": "2022-04-29T00:00:00.000Z"
+    },
+    {
+      "title": "Build A Fullstack App with Remix, Prisma & MongoDB: Referential Integrity & Image Uploads",
+      "link": "https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-4-l3MwEp4ZLIm2",
+      "pubDate": "2022-04-28T00:00:00.000Z"
+    },
+    {
+      "title": "Build A Fullstack App with Remix, Prisma & MongoDB: CRUD, Filtering & Sorting",
+      "link": "https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-3-By5pmN5Nzo1v",
+      "pubDate": "2022-04-27T00:00:00.000Z"
+    },
+    {
+      "title": "Build A Fullstack App with Remix, Prisma & MongoDB: Authentication",
+      "link": "https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-2-ZTmOy58p4re8",
+      "pubDate": "2022-04-26T00:00:00.000Z"
+    },
+    {
+      "title": "Build A Fullstack App with Remix, Prisma & MongoDB: Project Setup",
+      "link": "https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-1-7D0BfTXBmB6r",
+      "pubDate": "2022-04-25T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q1/22)",
+      "link": "https://www.prisma.io/blog/wnip-q1-dsk0golh8v",
+      "pubDate": "2022-04-11T00:00:00.000Z"
+    },
+    {
+      "title": "Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL: Deployment",
+      "link": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-5-m2fna60h7c",
+      "pubDate": "2022-04-06T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Adds Support for MongoDB — Join Our Launch Week Celebrations 🎉",
+      "link": "https://www.prisma.io/blog/mongodb-general-availability-pixnun6mffmu",
+      "pubDate": "2022-04-05T00:00:00.000Z"
+    },
+    {
+      "title": "Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL: Image upload",
+      "link": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-4-1k1kc83x3v",
+      "pubDate": "2022-03-30T00:00:00.000Z"
+    },
+    {
+      "title": "Enabling static egress IPs in the Prisma Data Platform",
+      "link": "https://www.prisma.io/blog/data-platform-static-ips",
+      "pubDate": "2022-02-09T00:00:00.000Z"
+    },
+    {
+      "title": "Improving Prisma Migrate DX with two new commands",
+      "link": "https://www.prisma.io/blog/prisma-migrate-dx-primitives",
+      "pubDate": "2022-02-03T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma support for CockroachDB is now in Preview",
+      "link": "https://www.prisma.io/blog/prisma-preview-cockroach-db-release",
+      "pubDate": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "title": "Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL: Authentication",
+      "link": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-3-clxbrcqppv",
+      "pubDate": "2022-01-28T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q4/21)",
+      "link": "https://www.prisma.io/blog/wnip-q4-dsk0golh8v",
+      "pubDate": "2021-12-31T00:00:00.000Z"
+    },
+    {
+      "title": "How Tryg has leveraged Prisma to democratize data",
+      "link": "https://www.prisma.io/blog/tryg-customer-story-pdmdrRhTupvd",
+      "pubDate": "2021-12-17T00:00:00.000Z"
+    },
+    {
+      "title": "Type-safe JavaScript with JsDoc",
+      "link": "https://www.prisma.io/blog/type-safe-js-with-jsdoc-typeSaf3js",
+      "pubDate": "2021-12-15T00:00:00.000Z"
+    },
+    {
+      "title": "How Panther champions talent over geography with Prisma",
+      "link": "https://www.prisma.io/blog/Panther-customer-story-pdmdrRhTupsl",
+      "pubDate": "2021-12-13T00:00:00.000Z"
+    },
+    {
+      "title": "Improving the Prisma Visual Studio Code Extension with WebAssembly",
+      "link": "https://www.prisma.io/blog/vscode-extension-prisma-rust-webassembly",
+      "pubDate": "2021-12-01T00:00:00.000Z"
+    },
+    {
+      "title": "How Elsevier Piloted an Innovative Publication Process Quickly and Flexibly with Prisma",
+      "link": "https://www.prisma.io/blog/elsevier-customer-story-SsAASKagMHtN",
+      "pubDate": "2021-11-15T00:00:00.000Z"
+    },
+    {
+      "title": "Database Access in Serverless Environments with the Prisma Data Proxy",
+      "link": "https://www.prisma.io/blog/prisma-data-proxy-xb16ba0p21",
+      "pubDate": "2021-11-11T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing Prisma Serverless Data Conference",
+      "link": "https://www.prisma.io/blog/serverless-data-conf-vbmcba0lc2",
+      "pubDate": "2021-11-01T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q3/21)",
+      "link": "https://www.prisma.io/blog/wnip-q3-hpk7pyth8v",
+      "pubDate": "2021-10-02T00:00:00.000Z"
+    },
+    {
+      "title": "Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL: GraphQL API",
+      "link": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-2-fwpc6ds155",
+      "pubDate": "2021-09-27T00:00:00.000Z"
+    },
+    {
+      "title": "Microsoft SQL Server Support in Prisma is Production-Ready",
+      "link": "https://www.prisma.io/blog/prisma-microsoft-sql-server-azure-sql-production-ga",
+      "pubDate": "2021-09-07T00:00:00.000Z"
+    },
+    {
+      "title": "Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL: Data Modeling",
+      "link": "https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw",
+      "pubDate": "2021-08-18T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Adopts Semantic Versioning (SemVer)",
+      "link": "https://www.prisma.io/blog/prisma-adopts-semver-strictly",
+      "pubDate": "2021-07-22T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2.27 Adds Preview Support for MongoDB",
+      "link": "https://www.prisma.io/blog/prisma-mongodb-preview-release",
+      "pubDate": "2021-07-14T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q2/21)",
+      "link": "https://www.prisma.io/blog/whats-new-in-prisma-q2-2021-z70muetl386d",
+      "pubDate": "2021-07-08T00:00:00.000Z"
+    },
+    {
+      "title": "How migrating from Sequelize to Prisma allowed Invisible to scale",
+      "link": "https://www.prisma.io/blog/how-migrating-from-Sequelize-to-Prisma-allowed-Invisible-to-scale-i4pz2mwu6q",
+      "pubDate": "2021-07-06T00:00:00.000Z"
+    },
+    {
+      "title": "How Prisma Allowed Pearly to Scale Quickly with an Ultra-Lean Team",
+      "link": "https://www.prisma.io/blog/pearly-plan-customer-success-pdmdrRhTupve",
+      "pubDate": "2021-07-01T00:00:00.000Z"
+    },
+    {
+      "title": "New Course: Fullstack App Using Next.js, GraphQL, TypeScript & Prisma",
+      "link": "https://www.prisma.io/blog/announcing-upcoming-course-8s41wdqrlgc7",
+      "pubDate": "2021-06-28T00:00:00.000Z"
+    },
+    {
+      "title": "How Poppy Uses Prisma Client to Ship Confidently",
+      "link": "https://www.prisma.io/blog/poppy-customer-success-story-swnWQcGRRvpd",
+      "pubDate": "2021-06-09T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Ambassador Program — Building A Community of Experts",
+      "link": "https://www.prisma.io/blog/ambassador-program-nxkWGcGNuvFx",
+      "pubDate": "2021-05-28T00:00:00.000Z"
+    },
+    {
+      "title": "How Grover Moves Faster with Prisma",
+      "link": "https://www.prisma.io/blog/grover-customer-success-story-nxkWGcGNuvFd",
+      "pubDate": "2021-05-10T00:00:00.000Z"
+    },
+    {
+      "title": "5 Tools for Documenting Your Web API",
+      "link": "https://www.prisma.io/blog/documenting-apis-mjjpZ7E7NkVP",
+      "pubDate": "2021-05-06T00:00:00.000Z"
+    },
+    {
+      "title": "A Collaborative Data Browser for Your Database on the Web",
+      "link": "https://www.prisma.io/blog/prisma-online-data-browser-ejgg5c8p3u4x",
+      "pubDate": "2021-04-28T00:00:00.000Z"
+    },
+    {
+      "title": "The Complete ORM for Node.js & TypeScript",
+      "link": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
+      "pubDate": "2021-04-21T00:00:00.000Z"
+    },
+    {
+      "title": "Application Monitoring Best Practices",
+      "link": "https://www.prisma.io/blog/monitoring-best-practices-monitor5g08d0b",
+      "pubDate": "2021-04-20T00:00:00.000Z"
+    },
+    {
+      "title": "How iopool refactored their app in less than 6 months with Prisma",
+      "link": "https://www.prisma.io/blog/iopool-customer-success-story-uLsCWvaqzXoa",
+      "pubDate": "2021-04-19T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing Tweets for Trees",
+      "link": "https://www.prisma.io/blog/tweets-for-trees-arboreal",
+      "pubDate": "2021-04-01T00:00:00.000Z"
+    },
+    {
+      "title": "What's new in Prisma? (Q1/21)",
+      "link": "https://www.prisma.io/blog/whats-new-in-prisma-q1-2021-spjyqp0e2rk1",
+      "pubDate": "2021-03-31T00:00:00.000Z"
+    },
+    {
+      "title": "Hassle-Free Database Migrations with Prisma Migrate",
+      "link": "https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b",
+      "pubDate": "2021-03-16T00:00:00.000Z"
+    },
+    {
+      "title": "Database Access in React Server Components",
+      "link": "https://www.prisma.io/blog/database-access-in-react-server-components-r2xgk9aztgdf",
+      "pubDate": "2021-02-24T00:00:00.000Z"
+    },
+    {
+      "title": "How Prisma Helps Rapha Manage Their Mobile Application Data",
+      "link": "https://www.prisma.io/blog/helping-rapha-access-data-across-platforms-n3jfhtyu6rgn",
+      "pubDate": "2021-01-27T00:00:00.000Z"
+    },
+    {
+      "title": "Full Stack Type Safety with Angular, Nest, Nx, and Prisma",
+      "link": "https://www.prisma.io/blog/full-stack-typesafety-with-angular-nest-nx-and-prisma-CcMK7fbQfTWc",
+      "pubDate": "2021-01-19T00:00:00.000Z"
+    },
+    {
+      "title": "Build an App With Svelte and TypeScript",
+      "link": "https://www.prisma.io/blog/build-an-app-with-svelte-and-typescript-PZDY3t93qAtd",
+      "pubDate": "2020-12-17T00:00:00.000Z"
+    },
+    {
+      "title": "Nexus 1.0: A Major Release for Type-Safe, Code-First GraphQL APIs",
+      "link": "https://www.prisma.io/blog/announcing-the-release-of-nexus-schema-v1-b5eno5g08d0b",
+      "pubDate": "2020-12-14T00:00:00.000Z"
+    },
+    {
+      "title": "Jamstack with Next.js and Prisma",
+      "link": "https://www.prisma.io/blog/jamstack-with-nextjs-prisma-jamstackN3XT",
+      "pubDate": "2020-12-11T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Migrate Preview - Database Migrations Simplified",
+      "link": "https://www.prisma.io/blog/prisma-migrate-preview-b5eno5g08d0b",
+      "pubDate": "2020-12-08T00:00:00.000Z"
+    },
+    {
+      "title": "Learn TypeScript: A Pocketguide Tutorial",
+      "link": "https://www.prisma.io/blog/learn-typescript-a-pocketguide-tutorial-q329XmXQHUjz",
+      "pubDate": "2020-11-17T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Studio - A Visual Interface for Your Database",
+      "link": "https://www.prisma.io/blog/prisma-studio-3rtf78dg99fe",
+      "pubDate": "2020-11-03T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2.10 Adds Preview Support for Microsoft SQL Server",
+      "link": "https://www.prisma.io/blog/prisma-sql-server-support-preview-a4anl2gd8d3a",
+      "pubDate": "2020-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "Backend with TypeScript, PostgreSQL & Prisma: CI & Deployment",
+      "link": "https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-deployment-bbba1ps7kip5",
+      "pubDate": "2020-09-17T00:00:00.000Z"
+    },
+    {
+      "title": "Backend with TypeScript, PostgreSQL & Prisma: Authentication & Authz",
+      "link": "https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-auth-mngp1ps7kip4",
+      "pubDate": "2020-09-10T00:00:00.000Z"
+    },
+    {
+      "title": "How Prisma Supports Database Transactions",
+      "link": "https://www.prisma.io/blog/how-prisma-supports-transactions-x45s1d5l0ww1",
+      "pubDate": "2020-09-08T00:00:00.000Z"
+    },
+    {
+      "title": "Backend with TypeScript, PostgreSQL & Prisma: REST, Validation & Tests",
+      "link": "https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-rest-api-validation-dcba1ps7kip3",
+      "pubDate": "2020-08-20T00:00:00.000Z"
+    },
+    {
+      "title": "Backend with TypeScript PostgreSQL & Prisma: Data Modeling & CRUD",
+      "link": "https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-data-modeling-tsjs1ps7kip1",
+      "pubDate": "2020-07-30T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Raises $12M to Build the Next Generation of Database Tools",
+      "link": "https://www.prisma.io/blog/prisma-raises-series-a-saks1zr7kip6",
+      "pubDate": "2020-06-26T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2.0: Confidence and productivity for your database",
+      "link": "https://www.prisma.io/blog/announcing-prisma-2-n0v98rzc8br1",
+      "pubDate": "2020-06-09T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2.0 is in Beta: Type-safe Database Access with Prisma Client",
+      "link": "https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e",
+      "pubDate": "2020-03-31T00:00:00.000Z"
+    },
+    {
+      "title": "State of Prisma 2 (December 2019)",
+      "link": "https://www.prisma.io/blog/state-of-prisma-2-december-rcrwcqyu655e",
+      "pubDate": "2019-12-06T00:00:00.000Z"
+    },
+    {
+      "title": "The Guild Takes over Development of the GraphQL CLI & Other Libraries",
+      "link": "https://www.prisma.io/blog/the-guild-takes-over-oss-libraries-vvluy2i4uevs",
+      "pubDate": "2019-08-14T00:00:00.000Z"
+    },
+    {
+      "title": "Watch the Talks from Prisma Day 2019!",
+      "link": "https://www.prisma.io/blog/watch-prisma-day-talks-z11sg6ipb3i1",
+      "pubDate": "2019-07-11T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2 Preview: Type-safe Database Access & Declarative Migrations",
+      "link": "https://www.prisma.io/blog/announcing-prisma-2-zq1s745db8i5",
+      "pubDate": "2019-06-18T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma 2 is Coming Soon",
+      "link": "https://www.prisma.io/blog/prisma-2-is-coming-soon-mwwfhevie993",
+      "pubDate": "2019-06-04T00:00:00.000Z"
+    },
+    {
+      "title": "New Datamodel Syntax: More Schema Control & Simpler Migrations",
+      "link": "https://www.prisma.io/blog/datamodel-v11-lrzqy1f56c90",
+      "pubDate": "2019-04-17T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing Prisma Day",
+      "link": "https://www.prisma.io/blog/announcing-prisma-day-50cg22nn40qk",
+      "pubDate": "2019-04-11T00:00:00.000Z"
+    },
+    {
+      "title": "How Prisma and GraphQL fit together",
+      "link": "https://www.prisma.io/blog/prisma-and-graphql-mfl5y2r7t49c",
+      "pubDate": "2019-03-19T00:00:00.000Z"
+    },
+    {
+      "title": "Using GraphQL Nexus with a Database",
+      "link": "https://www.prisma.io/blog/using-graphql-nexus-with-a-database-pmyl3660ncst",
+      "pubDate": "2019-02-12T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing GraphQL Nexus: Code-First GraphQL Server Development",
+      "link": "https://www.prisma.io/blog/introducing-graphql-nexus-code-first-graphql-server-development-ll6s1yy5cxl5",
+      "pubDate": "2019-02-07T00:00:00.000Z"
+    },
+    {
+      "title": "The Problems of \"Schema-First\" GraphQL Server Development",
+      "link": "https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3",
+      "pubDate": "2019-01-31T00:00:00.000Z"
+    },
+    {
+      "title": "How Labelbox Supports Vast Machine Learning Needs with Prisma",
+      "link": "https://www.prisma.io/blog/labelbox-simnycbotiok",
+      "pubDate": "2019-01-08T00:00:00.000Z"
+    },
+    {
+      "title": "How HyreCar rewrote their app in 60 days with Prisma",
+      "link": "https://www.prisma.io/blog/hyrecar-sorv3oo9sgl1",
+      "pubDate": "2018-11-14T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma Client (Preview): Simplified & Type-safe Database Access",
+      "link": "https://www.prisma.io/blog/prisma-client-preview-ahph4o1umail",
+      "pubDate": "2018-09-11T00:00:00.000Z"
+    },
+    {
+      "title": "How We're Constantly Improving the Performance of Prisma",
+      "link": "https://www.prisma.io/blog/performance-engineering-aeduv0rei0jk",
+      "pubDate": "2018-08-21T00:00:00.000Z"
+    },
+    {
+      "title": "Open Sourcing GraphQL Middleware - Library to Simplify Your Resolvers",
+      "link": "https://www.prisma.io/blog/graphql-middleware-zie3iphithxy",
+      "pubDate": "2018-08-07T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Europe 2018: The GraphQL community comes together in Berlin",
+      "link": "https://www.prisma.io/blog/graphql-eu-18-eiw8bishe2di",
+      "pubDate": "2018-06-04T00:00:00.000Z"
+    },
+    {
+      "title": "New Release Process for Prisma",
+      "link": "https://www.prisma.io/blog/improving-prismas-release-process-yaey8deiwaex",
+      "pubDate": "2018-05-29T00:00:00.000Z"
+    },
+    {
+      "title": "Prisma raises $4.5M to build the GraphQL data layer for all databases",
+      "link": "https://www.prisma.io/blog/prisma-raises-4-5m-to-build-the-graphql-data-layer-for-all-databases-663484df0f60",
+      "pubDate": "2018-05-15T00:00:00.000Z"
+    },
+    {
+      "title": "Tutorial: Building a Realtime GraphQL Server with Subscriptions",
+      "link": "https://www.prisma.io/blog/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427",
+      "pubDate": "2018-04-26T00:00:00.000Z"
+    },
+    {
+      "title": "Tutorial: Render Props in React Apollo 2.1",
+      "link": "https://www.prisma.io/blog/tutorial-render-props-in-react-apollo-2-1-199e9e2bd01e",
+      "pubDate": "2018-03-27T00:00:00.000Z"
+    },
+    {
+      "title": "Reasons to use GraphQL | Top 5 Reasons Why and How to use GraphQL",
+      "link": "https://www.prisma.io/blog/top-5-reasons-to-use-graphql-b60cfa683511",
+      "pubDate": "2018-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Directive Permissions — Authorization Made Easy",
+      "link": "https://www.prisma.io/blog/graphql-directive-permissions-authorization-made-easy-54c076b5368e",
+      "pubDate": "2018-03-01T00:00:00.000Z"
+    },
+    {
+      "title": "How to wrap a REST API with GraphQL - A 3-step tutorial",
+      "link": "https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d",
+      "pubDate": "2018-02-22T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Basics: Demystifying the `info` Argument in GraphQL Resolvers",
+      "link": "https://www.prisma.io/blog/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a",
+      "pubDate": "2018-02-06T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Schema Stitching explained: Schema Delegation",
+      "link": "https://www.prisma.io/blog/graphql-schema-stitching-explained-schema-delegation-4c6caf468405",
+      "pubDate": "2017-12-12T00:00:00.000Z"
+    },
+    {
+      "title": "How do GraphQL remote schemas work?",
+      "link": "https://www.prisma.io/blog/how-do-graphql-remote-schemas-work-7118237c89d7",
+      "pubDate": "2017-12-06T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Server Basics: The Network Layer",
+      "link": "https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861",
+      "pubDate": "2017-11-28T00:00:00.000Z"
+    },
+    {
+      "title": "How to enable CORS for Express-GraphQL & Apollo Server",
+      "link": "https://www.prisma.io/blog/enabling-cors-for-express-graphql-apollo-server-1ef999bfb38d",
+      "pubDate": "2017-11-22T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained",
+      "link": "https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e",
+      "pubDate": "2017-11-14T00:00:00.000Z"
+    },
+    {
+      "title": "All you need to know about Apollo Client 2",
+      "link": "https://www.prisma.io/blog/all-you-need-to-know-about-apollo-client-2-7e27e36d62fd",
+      "pubDate": "2017-11-07T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing GraphQL Playground",
+      "link": "https://www.prisma.io/blog/introducing-graphql-playground-f1e0a018f05d",
+      "pubDate": "2017-09-27T00:00:00.000Z"
+    },
+    {
+      "title": "New Tooling to Improve Your GraphQL Workflows",
+      "link": "https://www.prisma.io/blog/new-tooling-to-improve-your-graphql-workflows-7240c81e1ba3",
+      "pubDate": "2017-08-01T00:00:00.000Z"
+    },
+    {
+      "title": "Getting Started with Relay Modern",
+      "link": "https://www.prisma.io/blog/getting-started-with-relay-modern-46f8de6bd6ec",
+      "pubDate": "2017-06-18T00:00:00.000Z"
+    },
+    {
+      "title": "Relay Modern’s @connection directive",
+      "link": "https://www.prisma.io/blog/relay-moderns-connection-directive-1ecd8322f5c8",
+      "pubDate": "2017-06-02T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL vs Firebase",
+      "link": "https://www.prisma.io/blog/graphql-vs-firebase-496498546142",
+      "pubDate": "2017-05-05T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL SDL — Schema Definition Language",
+      "link": "https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51",
+      "pubDate": "2017-05-01T00:00:00.000Z"
+    },
+    {
+      "title": "Relay vs Apollo -  Comparing GraphQL clients for React apps",
+      "link": "https://www.prisma.io/blog/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534",
+      "pubDate": "2017-04-01T00:00:00.000Z"
+    },
+    {
+      "title": "How to use `create-react-native-app` with GraphQL & Apollo",
+      "link": "https://www.prisma.io/blog/tutorial-using-create-react-native-app-with-graphql-apollo-e630aee3ae1e",
+      "pubDate": "2017-03-28T00:00:00.000Z"
+    },
+    {
+      "title": "How to use `create-react-app` with GraphQL & Apollo",
+      "link": "https://www.prisma.io/blog/how-to-use-create-react-app-with-graphql-apollo-62e574617cff",
+      "pubDate": "2017-03-27T00:00:00.000Z"
+    },
+    {
+      "title": "How to build a Real-Time Chat with GraphQL Subscriptions and Apollo 🌍",
+      "link": "https://www.prisma.io/blog/how-to-build-a-real-time-chat-with-graphql-subscriptions-and-apollo-d4004369b0d4",
+      "pubDate": "2017-03-17T00:00:00.000Z"
+    },
+    {
+      "title": "GraphQL Query Parameters - Best Practices for GraphQL API Design",
+      "link": "https://www.prisma.io/blog/designing-powerful-apis-with-graphql-query-parameters-8c44a04658a9",
+      "pubDate": "2017-02-01T00:00:00.000Z"
+    },
+    {
+      "title": "Improving Performance with Apollo Query Batching",
+      "link": "https://www.prisma.io/blog/improving-performance-with-apollo-query-batching-66455ea9d8b",
+      "pubDate": "2017-01-24T00:00:00.000Z"
+    },
+    {
+      "title": "Connections, Edges & Nodes in Relay",
+      "link": "https://www.prisma.io/blog/connections-edges-nodes-in-relay-758d358aa4c7",
+      "pubDate": "2016-05-27T00:00:00.000Z"
+    }
+  ]
+}

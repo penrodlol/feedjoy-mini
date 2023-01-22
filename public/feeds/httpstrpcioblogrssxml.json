@@ -1,0 +1,26 @@
+{
+  "title": "tRPC Blog",
+  "link": "https://trpc.io/blog",
+  "items": [
+    {
+      "title": "Writing a tiny tRPC client",
+      "link": "https://trpc.io/blog/tinyrpc-client",
+      "pubDate": "2023-01-17T00:00:00.000Z"
+    },
+    {
+      "title": "TypeScript performance lessons while refactoring for v10",
+      "link": "https://trpc.io/blog/typescript-performance-lessons",
+      "pubDate": "2023-01-14T00:00:00.000Z"
+    },
+    {
+      "title": "Announcing tRPC v10",
+      "link": "https://trpc.io/blog/announcing-trpc-10",
+      "pubDate": "2022-11-21T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing tRPC",
+      "link": "https://trpc.io/blog/introducing-trpc",
+      "pubDate": "2021-05-05T00:00:00.000Z"
+    }
+  ]
+}

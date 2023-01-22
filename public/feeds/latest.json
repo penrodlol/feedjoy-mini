@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coming soon to all sites: a new environment variable experience",
+    "link": "https://netlify.com/blog/coming-soon-to-all-sites-a-new-environment-variable-experience/",
+    "pubDate": "2023-01-20T16:54:00.000Z"
+  },
+  {
+    "title": "Restructuring Prisma",
+    "link": "https://www.prisma.io/blog/restructure-announcement-1a9ek279du8j",
+    "pubDate": "2023-01-20T00:00:00.000Z"
+  },
+  {
+    "title": "Discuss site changes and file issues with the improved Netlify Drawer",
+    "link": "https://netlify.com/blog/discuss-site-changes-and-file-issues-with-the-improved-netlify-drawer/",
+    "pubDate": "2023-01-18T16:21:00.000Z"
+  },
+  {
+    "title": "QA and collaborate directly on branch deploy URLs",
+    "link": "https://netlify.com/blog/qa-and-collaborate-directly-on-branch-deploy-urls/",
+    "pubDate": "2023-01-17T15:52:00.000Z"
+  },
+  {
+    "title": "Writing a tiny tRPC client",
+    "link": "https://trpc.io/blog/tinyrpc-client",
+    "pubDate": "2023-01-17T00:00:00.000Z"
+  },
+  {
+    "title": "Introducing Accelerate in Early Access",
+    "link": "https://www.prisma.io/blog/announcing-accelerate-usrvpi6sfkv4",
+    "pubDate": "2023-01-16T00:00:00.000Z"
+  },
+  {
+    "title": "TypeScript performance lessons while refactoring for v10",
+    "link": "https://trpc.io/blog/typescript-performance-lessons",
+    "pubDate": "2023-01-14T00:00:00.000Z"
+  },
+  {
+    "title": "Now generally available: the Netlify Email Integration",
+    "link": "https://netlify.com/blog/netlify-email-integration-ga/",
+    "pubDate": "2023-01-11T18:49:00.000Z"
+  },
+  {
+    "title": "TripActions Builds with Netlify and Next.js for Cross-team Collaboration",
+    "link": "https://netlify.com/blog/trip-actions-next-case-study/",
+    "pubDate": "2023-01-11T16:41:00.000Z"
+  },
+  {
+    "title": "Astro Shiki Syntax Highlighting with CSS Variables",
+    "link": "https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/",
+    "pubDate": "2023-01-09T00:00:00.000Z"
+  },
+  {
+    "title": "Prisma Is Expanding Its Executive Team",
+    "link": "https://www.prisma.io/blog/coo-announcement-aer1fgviirjb",
+    "pubDate": "2023-01-03T00:00:00.000Z"
+  },
+  {
+    "title": "What's new in Prisma? (Q4/22)",
+    "link": "https://www.prisma.io/blog/wnip-q4-2022-f66prwkjx72s",
+    "pubDate": "2022-12-29T00:00:00.000Z"
+  },
+  {
+    "title": "Next.js 13.1",
+    "link": "https://nextjs.org/blog/next-13-1",
+    "pubDate": "2022-12-22T16:00:00.000Z"
+  },
+  {
+    "title": "The Ultimate Guide to Testing with Prisma: Mocking Prisma Client",
+    "link": "https://www.prisma.io/blog/testing-series-1-8eRB5p0Y8o",
+    "pubDate": "2022-12-22T00:00:00.000Z"
+  },
+  {
+    "title": "Prisma Playground: An Interactive Learning Experience for Prisma",
+    "link": "https://www.prisma.io/blog/announcing-prisma-playground-xeywknkj0e1p",
+    "pubDate": "2022-12-21T00:00:00.000Z"
+  },
+  {
+    "title": "Jamstack Trends: How will we develop in 2023?",
+    "link": "https://netlify.com/blog/jamstack-trend-predictions-2023/",
+    "pubDate": "2022-12-19T16:38:00.000Z"
+  },
+  {
+    "title": "Prisma Client Just Became a Lot More Flexible",
+    "link": "https://www.prisma.io/blog/client-extensions-preview-8t3w27xkrxxn",
+    "pubDate": "2022-12-19T00:00:00.000Z"
+  },
+  {
+    "title": "API Authentication: Methods and Best Practices",
+    "link": "https://netlify.com/blog/api-authentication-methods/",
+    "pubDate": "2022-12-16T21:03:00.000Z"
+  },
+  {
+    "title": "Protocol: A beautiful starting point for your next API documentation site",
+    "link": "https://tailwindcss.com/blog/2022-12-15-protocol-api-documentation-template",
+    "pubDate": "2022-12-15T15:00:00.000Z"
+  },
+  {
+    "title": "Building a REST API with NestJS and Prisma: Error Handling",
+    "link": "https://www.prisma.io/blog/nestjs-prisma-error-handling-7D056s1kOop2",
+    "pubDate": "2022-12-14T00:00:00.000Z"
+  }
+]
