@@ -3,10 +3,6 @@
 </p>
 <br />
 
-## Latest Posts
-
-<br />
-
 <!-- POSTS_START -->
 
 [Coming soon to all sites: a new environment variable experience](https://netlify.com/blog/coming-soon-to-all-sites-a-new-environment-variable-experience/)<br /><i>Jan
