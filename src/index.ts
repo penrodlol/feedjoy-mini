@@ -1,25 +1,21 @@
 import chalk from 'chalk';
-import { writeFileSync } from 'fs';
 import { emptyDirSync } from 'fs-extra';
-import { flat, sift, sort } from 'radash';
-import upsertFeeds from './upsert-feeds';
-import upsertMd from './upsert-md';
+import { writeFeeds } from './utils/write-feeds';
+import { writeLatest } from './utils/write-latest';
+import { writeLatestMD } from './utils/write-latest-md';
 
-emptyDirSync('public/feeds');
+emptyDirSync('dist');
 
 console.log(chalk.blue('\nREADING/WRITING FEEDS...\n'));
 
-const feeds = sift(await upsertFeeds());
-
-console.log(chalk.blue('\nREADING/WRITING LATEST 30 POSTS...\n'));
+const feeds = await writeFeeds();
 
 try {
-  const flattened = flat(feeds.map((feed) => feed.items));
-  const sorted = sort(flattened, (feed) => feed.pubDate.valueOf(), true);
-  const latest = sorted.slice(0, 30);
+  console.log(chalk.blue('\nREADING/WRITING LATEST 30 POSTS...\n'));
 
-  writeFileSync('public/feeds/latest.json', JSON.stringify(latest, null, 2));
-  upsertMd(latest);
+  const latest = await writeLatest(feeds);
+  await writeLatestMD(latest);
+
   console.log('✅ Latest 30 posts');
 } catch (_e) {
   console.error('❌ Latest 30 posts');
