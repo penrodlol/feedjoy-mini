@@ -7,8 +7,8 @@ import urls from '../public/input.json';
 const parser = new Parser();
 const batchSize = 5;
 
-export default async () => {
-  return parallel(
+export default async () =>
+  parallel(
     batchSize,
     unique(urls.map((url) => url.trim().replace(/www\./, ''))),
     async (url) =>
@@ -40,4 +40,3 @@ export default async () => {
           return null;
         }),
   );
-};
