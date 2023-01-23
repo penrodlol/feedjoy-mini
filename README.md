@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="feedjoy" title="feedjoy" />
+  <img src="assets/banner-vault.svg" alt="feedjoy" title="feedjoy" />
 </p>
 <br />
 

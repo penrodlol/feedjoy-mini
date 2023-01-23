@@ -3,6 +3,7 @@ import { emptyDirSync } from 'fs-extra';
 import { writeFeeds } from './utils/write-feeds';
 import { writeLatest } from './utils/write-latest';
 import { writeLatestMD } from './utils/write-latest-md';
+import { writeVaultMD } from './utils/write-vault-md';
 
 emptyDirSync('dist');
 
@@ -17,6 +18,9 @@ try {
   await writeLatestMD(latest);
 
   console.log('✅ Latest 30 posts');
+  console.log(chalk.blue('\nREADING/WRITING VAULT...\n'));
+
+  await writeVaultMD(feeds);
 } catch (_e) {
   console.error('❌ Latest 30 posts');
 }

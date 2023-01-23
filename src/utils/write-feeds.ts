@@ -36,7 +36,7 @@ export const writeFeeds = async () => {
 
           writeFileSync(path, JSON.stringify(payload, null, 2));
           console.log(`✅ ${url}`);
-          return payload;
+          return { ...payload, slug };
         } catch (_e) {
           console.error(`❌ ${url}`);
           return null;
