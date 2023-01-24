@@ -1,0 +1,16 @@
+<p align="center">
+  <img src="assets/banner-vault.svg" alt="feedjoy" title="feedjoy" />
+</p>
+<br />
+
+<% feeds.forEach(function(feed){ %>
+<details>
+  <summary><strong><%= feed.site %> (<%= feed.total %>)</strong></summary>
+  <br />
+  <% feed.items.forEach(function(post){ %>
+  <a href="<%= post.link %>"><%= post.title %></a><br />
+  <%= feed.site %> | <i><%= post.formattedPubDate %></i>
+  <hr />
+  <% }); %>
+</details>
+<% }); %>

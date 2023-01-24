@@ -1,28 +1,15 @@
 import chalk from 'chalk';
-import { emptyDirSync } from 'fs-extra';
-import { writeFeeds } from './utils/write-feeds';
-import { writeLatest } from './utils/write-latest';
-import { writeLatestMD } from './utils/write-latest-md';
-import { writeVaultMD } from './utils/write-vault-md';
+import { getFeeds } from './utils/get-feeds';
+import { setReadme } from './utils/set-readme';
+import { setVault } from './utils/set-vault';
 
-emptyDirSync('dist');
+console.log(chalk.blue('READING FEEDS...\n'));
+const feeds = await getFeeds();
 
-console.log(chalk.blue('\nREADING/WRITING FEEDS...\n'));
+console.log(chalk.blue('\nUPDATING README...\n'));
+await setReadme(feeds);
 
-const feeds = await writeFeeds();
-
-try {
-  console.log(chalk.blue('\nREADING/WRITING LATEST 30 POSTS...\n'));
-
-  const latest = await writeLatest(feeds);
-  await writeLatestMD(latest);
-
-  console.log('✅ Latest 30 posts');
-  console.log(chalk.blue('\nREADING/WRITING VAULT...\n'));
-
-  await writeVaultMD(feeds);
-} catch (_e) {
-  console.error('❌ Latest 30 posts');
-}
+console.log(chalk.blue('\nUPDATING VAULT...\n'));
+await setVault(feeds);
 
 console.log(chalk.blue('\nCOMPLETE!\n'));

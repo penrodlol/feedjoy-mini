@@ -1,0 +1,10 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="feedjoy" title="feedjoy" />
+</p>
+<br />
+
+<% posts.forEach(function(post){ %>
+<strong>[<%= post.title %>](<%= post.link %>)</strong><br />
+<%= post.site %> | <%= post.formattedPubDate %>
+<hr />
+<% }); %>
