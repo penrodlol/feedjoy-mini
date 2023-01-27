@@ -23,7 +23,9 @@ jobs:
 
       - name: Bot Commit
         run: |
+          date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git commit -am "🤖 Update Feed"
+          git add .
+          git commit -m "🤖 Update Feeds"
           git push
