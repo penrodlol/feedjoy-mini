@@ -4,7 +4,11 @@
 <br />
 
 <% posts.forEach(function(post){ %>
+<img src="<%= post.image %>" height="100" />
+<br />
+
 <strong>[<%= post.title %>](<%= post.link %>)</strong><br />
 <%= post.site %> | <%= post.formattedPubDate %>
 <hr />
+<br />
 <% }); %>

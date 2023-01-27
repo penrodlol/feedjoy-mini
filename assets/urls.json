@@ -5,5 +5,6 @@
   "https://netlify.com/community-feed.xml",
   "https://tailwindcss.com/feeds/feed.xml",
   "https://prisma.io/blog/rss.xml",
-  "https://trpc.io/blog/rss.xml"
+  "https://trpc.io/blog/rss.xml",
+  "https://supabase.com/rss.xml"
 ]
