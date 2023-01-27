@@ -4,6 +4,14 @@
 <br />
 
 
+<strong>[How Netlify Uses Storybook for Visual Regression Testing](https://netlify.com/blog/storybook-visual-regression-testing/)</strong><br />
+Netlify RSS | Jan 26, 2023
+<hr />
+
+<strong>[Unlock New Possibilities with Hybrid Rendering](https://astro.build/blog/hybrid-rendering/)</strong><br />
+The Astro Blog | Jan 26, 2023
+<hr />
+
 <strong>[Introducing Content Collections: Type-Safe Markdown in Astro 2.0](https://astro.build/blog/introducing-content-collections/)</strong><br />
 The Astro Blog | Jan 25, 2023
 <hr />
@@ -46,10 +54,6 @@ Netlify RSS | Jan 11, 2023
 
 <strong>[TripActions Builds with Netlify and Next.js for Cross-team Collaboration](https://netlify.com/blog/trip-actions-next-case-study/)</strong><br />
 Netlify RSS | Jan 11, 2023
-<hr />
-
-<strong>[Astro Shiki Syntax Highlighting with CSS Variables](https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/)</strong><br />
-Blog | Christian Penrod | Jan 9, 2023
 <hr />
 
 <strong>[Prisma Is Expanding Its Executive Team](https://www.prisma.io/blog/coo-announcement-aer1fgviirjb)</strong><br />
@@ -114,10 +118,6 @@ Netlify RSS | Dec 6, 2022
 
 <strong>[How TypeScript 4.9 `satisfies` Your Prisma Workflows](https://www.prisma.io/blog/satisfies-operator-ur8ys8ccq7zb)</strong><br />
 Prisma Blog | Dec 1, 2022
-<hr />
-
-<strong>[Querying Supabase from the edge with PolyScale](https://netlify.com/blog/querying-supabase-from-the-edge-with-polyscale/)</strong><br />
-Netlify RSS | Nov 30, 2022
 <hr />
 
 <strong>[Try Prisma: The Fastest Way to Explore Prisma Examples](https://www.prisma.io/blog/try-prisma-announcment-Kv6bwRcdjd)</strong><br />

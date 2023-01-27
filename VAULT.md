@@ -5,34 +5,12 @@
 
 
 <details>
-  <summary><strong>Blog | Christian Penrod (5)</strong></summary>
+  <summary><strong>The Astro Blog (34)</strong></summary>
   <br />
   
-  <a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a><br />
-  Blog | Christian Penrod | <i>Jan 9, 2023</i>
+  <a href="https://astro.build/blog/hybrid-rendering/">Unlock New Possibilities with Hybrid Rendering</a><br />
+  The Astro Blog | <i>Jan 26, 2023</i>
   <hr />
-  
-  <a href="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/">Tailwind CSS Responsive Design Without Breakpoints</a><br />
-  Blog | Christian Penrod | <i>Sep 17, 2022</i>
-  <hr />
-  
-  <a href="https://christianpenrod.com/blog/developing-browser-extensions-with-nextjs/">Developing Browser Extensions with Next.js</a><br />
-  Blog | Christian Penrod | <i>Apr 19, 2022</i>
-  <hr />
-  
-  <a href="https://christianpenrod.com/blog/hyper-terminal-and-its-arsenal-of-plugins/">Hyper Terminal and its arsenal of plugins</a><br />
-  Blog | Christian Penrod | <i>Mar 17, 2022</i>
-  <hr />
-  
-  <a href="https://christianpenrod.com/blog/local-state-with-ngrx-and-apollo-angular/">Local State with NgRx &amp; Apollo Angular</a><br />
-  Blog | Christian Penrod | <i>May 1, 2021</i>
-  <hr />
-  
-</details>
-
-<details>
-  <summary><strong>The Astro Blog (33)</strong></summary>
-  <br />
   
   <a href="https://astro.build/blog/introducing-content-collections/">Introducing Content Collections: Type-Safe Markdown in Astro 2.0</a><br />
   The Astro Blog | <i>Jan 25, 2023</i>
@@ -368,6 +346,10 @@
   <summary><strong>Netlify RSS (12)</strong></summary>
   <br />
   
+  <a href="https://netlify.com/blog/storybook-visual-regression-testing/">How Netlify Uses Storybook for Visual Regression Testing</a><br />
+  Netlify RSS | <i>Jan 26, 2023</i>
+  <hr />
+  
   <a href="https://netlify.com/blog/coming-soon-to-all-sites-a-new-environment-variable-experience/">Coming soon to all sites: a new environment variable experience</a><br />
   Netlify RSS | <i>Jan 20, 2023</i>
   <hr />
@@ -410,10 +392,6 @@
   
   <a href="https://netlify.com/blog/integrating-contentful-with-your-netlify-site-is-now-easier-than-ever/">Integrating Contentful with your Netlify site is now easier than ever</a><br />
   Netlify RSS | <i>Dec 6, 2022</i>
-  <hr />
-  
-  <a href="https://netlify.com/blog/querying-supabase-from-the-edge-with-polyscale/">Querying Supabase from the edge with PolyScale</a><br />
-  Netlify RSS | <i>Nov 30, 2022</i>
   <hr />
   
 </details>
