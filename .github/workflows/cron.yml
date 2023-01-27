@@ -9,13 +9,19 @@ jobs:
   scheduled-job:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
         with:
           node-version: '16'
+
       - name: Install Dependencies
         run: yarn install
+
       - name: Run Script For Feeds
         run: yarn dev
+
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '🤖 Update Feeds'
