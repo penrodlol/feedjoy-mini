@@ -6,5 +6,10 @@
   "https://tailwindcss.com/feeds/feed.xml",
   "https://prisma.io/blog/rss.xml",
   "https://trpc.io/blog/rss.xml",
-  "https://supabase.com/rss.xml"
+  "https://supabase.com/rss.xml",
+  "https://blog.nrwl.io/feed",
+  "https://netbasal.com/feed",
+  "https://whitep4nth3r.com/feed.xml",
+  "https://joshwcomeau.com/rss.xml",
+  "https://timdeschryver.dev/blog/rss.xml"
 ]
