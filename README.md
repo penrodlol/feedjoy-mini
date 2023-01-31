@@ -4,6 +4,10 @@
 <br />
 
 
+<strong>[ Improve your test experience with Playwright Soft Assertions ](https://timdeschryver.dev/blog/improve-your-test-experience-with-playwright-soft-assertions)</strong><br />
+ Tim Deschryver  | Jan 30, 2023
+<hr />
+
 <strong>[Astro Community Awards 2022](https://astro.build/blog/community-awards-22/)</strong><br />
 The Astro Blog | Jan 27, 2023
 <hr />
@@ -118,9 +122,5 @@ Netlify RSS | Jan 11, 2023
 
 <strong>[TripActions Builds with Netlify and Next.js for Cross-team Collaboration](https://netlify.com/blog/trip-actions-next-case-study/)</strong><br />
 Netlify RSS | Jan 11, 2023
-<hr />
-
-<strong>[Setting up Module Federation with Server-Side Rendering for Angular](https://blog.nrwl.io/setting-up-module-federation-with-server-side-rendering-for-angular-66bae10ead2d?source=rss----1e21061103c7---4)</strong><br />
-Nx Devtools - Medium | Jan 10, 2023
 <hr />
 
