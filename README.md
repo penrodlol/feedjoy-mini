@@ -4,6 +4,18 @@
 <br />
 
 
+<strong>[New Netlify-PlanetScale Integration for Easier Deployment of Data-Intensive Apps](https://netlify.com/blog/planetscale-integration/)</strong><br />
+Netlify RSS | Jan 31, 2023
+<hr />
+
+<strong>[Configuration Files and Potholes in Your Codebase](https://blog.nrwl.io/configuration-files-and-potholes-in-your-codebase-f8e0f9f016c2?source=rss----1e21061103c7---4)</strong><br />
+Nx Devtools - Medium | Jan 31, 2023
+<hr />
+
+<strong>[The Ultimate Guide to Testing with Prisma: Unit Testing](https://www.prisma.io/blog/testing-series-2-xPhjjmIEsM)</strong><br />
+Prisma Blog | Jan 31, 2023
+<hr />
+
 <strong>[ Improve your test experience with Playwright Soft Assertions ](https://timdeschryver.dev/blog/improve-your-test-experience-with-playwright-soft-assertions)</strong><br />
  Tim Deschryver  | Jan 30, 2023
 <hr />
@@ -110,17 +122,5 @@ tRPC Blog | Jan 14, 2023
 
 <strong>[An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)</strong><br />
 Josh Comeau&#39;s blog | Jan 13, 2023
-<hr />
-
-<strong>[React, Vite and TypeScript: Get started in under 2 minutes](https://blog.nrwl.io/react-vite-and-typescript-get-started-in-under-2-minutes-3bd5cd836175?source=rss----1e21061103c7---4)</strong><br />
-Nx Devtools - Medium | Jan 12, 2023
-<hr />
-
-<strong>[Now generally available: the Netlify Email Integration](https://netlify.com/blog/netlify-email-integration-ga/)</strong><br />
-Netlify RSS | Jan 11, 2023
-<hr />
-
-<strong>[TripActions Builds with Netlify and Next.js for Cross-team Collaboration](https://netlify.com/blog/trip-actions-next-case-study/)</strong><br />
-Netlify RSS | Jan 11, 2023
 <hr />
 
