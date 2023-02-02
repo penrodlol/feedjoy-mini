@@ -4,6 +4,30 @@
 <br />
 
 
+<strong>[Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
+<strong>[A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
+<strong>[Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
+<strong>[Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
+<strong>[Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
+<strong>[The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)</strong><br />
+Josh Comeau&#39;s blog | Jan 31, 2023
+<hr />
+
 <strong>[New Netlify-PlanetScale Integration for Easier Deployment of Data-Intensive Apps](https://netlify.com/blog/planetscale-integration/)</strong><br />
 Netlify RSS | Jan 31, 2023
 <hr />
@@ -54,30 +78,6 @@ The Astro Blog | Jan 24, 2023
 
 <strong>[ Adding OpenTelemetry to an Angular Application ](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)</strong><br />
  Tim Deschryver  | Jan 23, 2023
-<hr />
-
-<strong>[Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
-<hr />
-
-<strong>[A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
-<hr />
-
-<strong>[Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
-<hr />
-
-<strong>[Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
-<hr />
-
-<strong>[Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
-<hr />
-
-<strong>[The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)</strong><br />
-Josh Comeau&#39;s blog | Jan 22, 2023
 <hr />
 
 <strong>[Coming soon to all sites: a new environment variable experience](https://netlify.com/blog/coming-soon-to-all-sites-a-new-environment-variable-experience/)</strong><br />
