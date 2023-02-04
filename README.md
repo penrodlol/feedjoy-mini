@@ -4,6 +4,10 @@
 <br />
 
 
+<strong>[WebStorm announces official support for Astro](https://astro.build/blog/astro-webstorm-support/)</strong><br />
+The Astro Blog | Feb 3, 2023
+<hr />
+
 <strong>[Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)</strong><br />
 Josh Comeau&#39;s blog | Jan 31, 2023
 <hr />
@@ -118,9 +122,5 @@ Prisma Blog | Jan 16, 2023
 
 <strong>[TypeScript performance lessons while refactoring for v10](https://trpc.io/blog/typescript-performance-lessons)</strong><br />
 tRPC Blog | Jan 14, 2023
-<hr />
-
-<strong>[An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)</strong><br />
-Josh Comeau&#39;s blog | Jan 13, 2023
 <hr />
 

@@ -5,8 +5,12 @@
 
 
 <details>
-  <summary><strong>The Astro Blog (35)</strong></summary>
+  <summary><strong>The Astro Blog (36)</strong></summary>
   <br />
+  
+  <a href="https://astro.build/blog/astro-webstorm-support/">WebStorm announces official support for Astro</a><br />
+  The Astro Blog | <i>Feb 3, 2023</i>
+  <hr />
   
   <a href="https://astro.build/blog/community-awards-22/">Astro Community Awards 2022</a><br />
   The Astro Blog | <i>Jan 27, 2023</i>
