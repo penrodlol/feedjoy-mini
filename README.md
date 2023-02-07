@@ -4,6 +4,10 @@
 <br />
 
 
+<strong>[ I tried the Angular Standalone migration, and here is the result ](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-result)</strong><br />
+ Tim Deschryver  | Feb 6, 2023
+<hr />
+
 <strong>[WebStorm announces official support for Astro](https://astro.build/blog/astro-webstorm-support/)</strong><br />
 The Astro Blog | Feb 3, 2023
 <hr />
@@ -118,9 +122,5 @@ Netanel Basal - Medium | Jan 16, 2023
 
 <strong>[Introducing Accelerate in Early Access](https://www.prisma.io/blog/announcing-accelerate-usrvpi6sfkv4)</strong><br />
 Prisma Blog | Jan 16, 2023
-<hr />
-
-<strong>[TypeScript performance lessons while refactoring for v10](https://trpc.io/blog/typescript-performance-lessons)</strong><br />
-tRPC Blog | Jan 14, 2023
 <hr />
 
