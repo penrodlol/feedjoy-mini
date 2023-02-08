@@ -1147,11 +1147,15 @@
 </details>
 
 <details>
-  <summary><strong>Blog - Supabase (154)</strong></summary>
+  <summary><strong>Blog - Supabase (155)</strong></summary>
   <br />
   
+  <a href="https://supabase.com/blog/chatgpt-supabase-docs">Supabase Clippy: ChatGPT for Supabase Docs</a><br />
+  Blog - Supabase | <i>Feb 6, 2023</i>
+  <hr />
+  
   <a href="https://supabase.com/blog/openai-embeddings-postgres-vector">Storing OpenAI embeddings in Postgres with pgvector</a><br />
-  Blog - Supabase | <i>Jan 5, 2023</i>
+  Blog - Supabase | <i>Feb 5, 2023</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-beta-december-2022">Supabase Beta December 2022</a><br />
@@ -1399,15 +1403,15 @@
   <hr />
   
   <a href="https://supabase.com/blog/supabrew">Supabrew - Never Code Thirsty</a><br />
-  Blog - Supabase | <i>Mar 31, 2022</i>
+  Blog - Supabase | <i>Apr 1, 2022</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-realtime-with-multiplayer-features">Supabase Realtime, with Multiplayer Features</a><br />
-  Blog - Supabase | <i>Mar 31, 2022</i>
+  Blog - Supabase | <i>Apr 1, 2022</i>
   <hr />
   
   <a href="https://supabase.com/blog/hackathon-bring-the-func">Hackathon: Bring the Func(🕺)</a><br />
-  Blog - Supabase | <i>Mar 31, 2022</i>
+  Blog - Supabase | <i>Apr 1, 2022</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-edge-functions">Edge Functions are now available in Supabase</a><br />
@@ -1619,19 +1623,19 @@
   <hr />
   
   <a href="https://supabase.com/blog/supabase-nft-marketplace">Supabase Launches NFT Marketplace</a><br />
-  Blog - Supabase | <i>Mar 31, 2021</i>
+  Blog - Supabase | <i>Apr 1, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-cli">Supabase CLI</a><br />
-  Blog - Supabase | <i>Mar 30, 2021</i>
+  Blog - Supabase | <i>Mar 31, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-storage">Storage is now available in Supabase</a><br />
-  Blog - Supabase | <i>Mar 29, 2021</i>
+  Blog - Supabase | <i>Mar 30, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/pricing">Supabase Beta Pricing</a><br />
-  Blog - Supabase | <i>Mar 28, 2021</i>
+  Blog - Supabase | <i>Mar 29, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/launch-week">Launch week</a><br />
@@ -1643,127 +1647,127 @@
   <hr />
   
   <a href="https://supabase.com/blog/In-The-Loop">Developers stay up to date with intheloop.dev</a><br />
-  Blog - Supabase | <i>Mar 21, 2021</i>
+  Blog - Supabase | <i>Mar 22, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/using-supabase-replit">Using Supabase in Replit</a><br />
-  Blog - Supabase | <i>Mar 10, 2021</i>
+  Blog - Supabase | <i>Mar 11, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/toad-a-link-shortener-with-simple-apis-for-low-coders">Toad, a link shortener with simple APIs for low-coders</a><br />
-  Blog - Supabase | <i>Mar 7, 2021</i>
+  Blog - Supabase | <i>Mar 8, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/postgres-as-a-cron-server">Postgres as a CRON Server</a><br />
-  Blog - Supabase | <i>Mar 4, 2021</i>
+  Blog - Supabase | <i>Mar 5, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-beta-february-2021">Supabase Beta February 2021</a><br />
-  Blog - Supabase | <i>Mar 1, 2021</i>
+  Blog - Supabase | <i>Mar 2, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/cracking-postgres-interview">Cracking PostgreSQL Interview Questions</a><br />
-  Blog - Supabase | <i>Feb 26, 2021</i>
+  Blog - Supabase | <i>Feb 27, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/case-study-roboflow">Roboflow.com choose Supabase to power Paint.wtf leaderboard</a><br />
-  Blog - Supabase | <i>Feb 8, 2021</i>
+  Blog - Supabase | <i>Feb 9, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-beta-january-2021">Supabase Beta January 2021</a><br />
-  Blog - Supabase | <i>Feb 1, 2021</i>
+  Blog - Supabase | <i>Feb 2, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-beta-december-2020">Supabase Beta December 2020</a><br />
-  Blog - Supabase | <i>Jan 1, 2021</i>
+  Blog - Supabase | <i>Jan 2, 2021</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-dashboard-performance">Making the Supabase Dashboard Supa-fast</a><br />
-  Blog - Supabase | <i>Dec 12, 2020</i>
+  Blog - Supabase | <i>Dec 13, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-striveschool">Supabase Partners With Strive School To Help Teach Open Source</a><br />
-  Blog - Supabase | <i>Dec 1, 2020</i>
+  Blog - Supabase | <i>Dec 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/case-study-xendit">Xendit Built a Counter-Fraud Watchlist for the Fintech Industry</a><br />
-  Blog - Supabase | <i>Dec 1, 2020</i>
+  Blog - Supabase | <i>Dec 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/case-study-tayfa">TAYFA Built a No-Code Website Builder in Seven Days</a><br />
-  Blog - Supabase | <i>Dec 1, 2020</i>
+  Blog - Supabase | <i>Dec 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/case-study-monitoro">Monitoro Built a Web Crawler Handling Millions of API Requests</a><br />
-  Blog - Supabase | <i>Dec 1, 2020</i>
+  Blog - Supabase | <i>Dec 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-november-2020">Supabase Alpha November 2020</a><br />
-  Blog - Supabase | <i>Nov 30, 2020</i>
+  Blog - Supabase | <i>Dec 1, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/postgresql-views">Postgres Views</a><br />
-  Blog - Supabase | <i>Nov 17, 2020</i>
+  Blog - Supabase | <i>Nov 18, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-october-2020">Supabase Alpha October 2020</a><br />
-  Blog - Supabase | <i>Nov 1, 2020</i>
+  Blog - Supabase | <i>Nov 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/improved-dx">Supabase.js 1.0</a><br />
-  Blog - Supabase | <i>Oct 29, 2020</i>
+  Blog - Supabase | <i>Oct 30, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-september-2020">Supabase Alpha September 2020</a><br />
-  Blog - Supabase | <i>Oct 2, 2020</i>
+  Blog - Supabase | <i>Oct 3, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-hacktoberfest-2020">Supabase Hacktoberfest 2020</a><br />
-  Blog - Supabase | <i>Sep 10, 2020</i>
+  Blog - Supabase | <i>Sep 11, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-august-2020">Supabase Alpha August 2020</a><br />
-  Blog - Supabase | <i>Sep 2, 2020</i>
+  Blog - Supabase | <i>Sep 3, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-auth">Supabase Auth</a><br />
-  Blog - Supabase | <i>Aug 4, 2020</i>
+  Blog - Supabase | <i>Aug 5, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-july-2020">Supabase Alpha July 2020</a><br />
-  Blog - Supabase | <i>Aug 1, 2020</i>
+  Blog - Supabase | <i>Aug 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/continuous-postgresql-backup-walg">Continuous PostgreSQL Backups using WAL-G</a><br />
-  Blog - Supabase | <i>Aug 1, 2020</i>
+  Blog - Supabase | <i>Aug 2, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/alpha-launch-postmortem">Alpha Launch Postmortem</a><br />
-  Blog - Supabase | <i>Jul 9, 2020</i>
+  Blog - Supabase | <i>Jul 10, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/postgresql-templates">What are PostgreSQL Templates?</a><br />
-  Blog - Supabase | <i>Jul 8, 2020</i>
+  Blog - Supabase | <i>Jul 9, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/postgresql-physical-logical-backups">Physical vs Logical Backups in PostgreSQL</a><br />
-  Blog - Supabase | <i>Jul 6, 2020</i>
+  Blog - Supabase | <i>Jul 7, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-june-2020">Supabase Alpha June 2020</a><br />
-  Blog - Supabase | <i>Jun 30, 2020</i>
+  Blog - Supabase | <i>Jul 1, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-steve-chavez">Steve Chavez has joined Supabase</a><br />
-  Blog - Supabase | <i>Jun 14, 2020</i>
+  Blog - Supabase | <i>Jun 15, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-may-2020">Supabase Alpha May 2020</a><br />
-  Blog - Supabase | <i>May 31, 2020</i>
+  Blog - Supabase | <i>Jun 1, 2020</i>
   <hr />
   
   <a href="https://supabase.com/blog/supabase-alpha-april-2020">Supabase Alpha April 2020</a><br />
-  Blog - Supabase | <i>May 31, 2020</i>
+  Blog - Supabase | <i>Jun 1, 2020</i>
   <hr />
   
 </details>

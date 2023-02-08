@@ -4,8 +4,16 @@
 <br />
 
 
+<strong>[Supabase Clippy: ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)</strong><br />
+Blog - Supabase | Feb 6, 2023
+<hr />
+
 <strong>[ I tried the Angular Standalone migration, and here is the result ](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-result)</strong><br />
  Tim Deschryver  | Feb 6, 2023
+<hr />
+
+<strong>[Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)</strong><br />
+Blog - Supabase | Feb 5, 2023
 <hr />
 
 <strong>[WebStorm announces official support for Astro](https://astro.build/blog/astro-webstorm-support/)</strong><br />
@@ -114,13 +122,5 @@ tRPC Blog | Jan 17, 2023
 
 <strong>[Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)</strong><br />
 Josh Comeau&#39;s blog | Jan 16, 2023
-<hr />
-
-<strong>[Why Directives are the Go-To Choice for Select Component Options Reuse in Angular](https://netbasal.com/why-directives-are-the-go-to-choice-for-select-component-options-reuse-in-angular-36feffbcc7da?source=rss----a117514594dd---4)</strong><br />
-Netanel Basal - Medium | Jan 16, 2023
-<hr />
-
-<strong>[Introducing Accelerate in Early Access](https://www.prisma.io/blog/announcing-accelerate-usrvpi6sfkv4)</strong><br />
-Prisma Blog | Jan 16, 2023
 <hr />
 
