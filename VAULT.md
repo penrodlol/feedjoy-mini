@@ -1147,8 +1147,12 @@
 </details>
 
 <details>
-  <summary><strong>Blog - Supabase (155)</strong></summary>
+  <summary><strong>Blog - Supabase (156)</strong></summary>
   <br />
+  
+  <a href="https://supabase.com/blog/supabase-beta-january-2023">Supabase Beta January 2023</a><br />
+  Blog - Supabase | <i>Feb 7, 2023</i>
+  <hr />
   
   <a href="https://supabase.com/blog/chatgpt-supabase-docs">Supabase Clippy: ChatGPT for Supabase Docs</a><br />
   Blog - Supabase | <i>Feb 6, 2023</i>

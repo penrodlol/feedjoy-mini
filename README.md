@@ -4,6 +4,10 @@
 <br />
 
 
+<strong>[Supabase Beta January 2023](https://supabase.com/blog/supabase-beta-january-2023)</strong><br />
+Blog - Supabase | Feb 7, 2023
+<hr />
+
 <strong>[Supabase Clippy: ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)</strong><br />
 Blog - Supabase | Feb 6, 2023
 <hr />
@@ -118,9 +122,5 @@ Netlify RSS | Jan 17, 2023
 
 <strong>[Writing a tiny tRPC client](https://trpc.io/blog/tinyrpc-client)</strong><br />
 tRPC Blog | Jan 17, 2023
-<hr />
-
-<strong>[Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)</strong><br />
-Josh Comeau&#39;s blog | Jan 16, 2023
 <hr />
 
