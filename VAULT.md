@@ -1780,6 +1780,10 @@
   <summary><strong>Nx Devtools - Medium (10)</strong></summary>
   <br />
   
+  <a href="https://blog.nrwl.io/setup-react-and-tailwind-the-easy-way-15592eebf4bc?source=rss----1e21061103c7---4">Setup React and Tailwind — The Easy Way</a><br />
+  Nx Devtools - Medium | <i>Feb 9, 2023</i>
+  <hr />
+  
   <a href="https://blog.nrwl.io/configuration-files-and-potholes-in-your-codebase-f8e0f9f016c2?source=rss----1e21061103c7---4">Configuration Files and Potholes in Your Codebase</a><br />
   Nx Devtools - Medium | <i>Jan 31, 2023</i>
   <hr />
@@ -1814,10 +1818,6 @@
   
   <a href="https://blog.nrwl.io/nx-15-3-standalone-projects-vite-task-graph-and-more-3ed23f7827ed?source=rss----1e21061103c7---4">Nx 15.3 — Standalone Projects, Vite, Task Graph and more!</a><br />
   Nx Devtools - Medium | <i>Dec 6, 2022</i>
-  <hr />
-  
-  <a href="https://blog.nrwl.io/from-bootstrapped-to-venture-backed-nx-raises-8-6m-2ae2228eff76?source=rss----1e21061103c7---4">From Bootstrapped to Venture-Backed: Nx Raises $8.6M</a><br />
-  Nx Devtools - Medium | <i>Nov 17, 2022</i>
   <hr />
   
 </details>

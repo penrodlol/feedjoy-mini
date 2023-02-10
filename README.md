@@ -4,6 +4,10 @@
 <br />
 
 
+<strong>[Setup React and Tailwind — The Easy Way](https://blog.nrwl.io/setup-react-and-tailwind-the-easy-way-15592eebf4bc?source=rss----1e21061103c7---4)</strong><br />
+Nx Devtools - Medium | Feb 9, 2023
+<hr />
+
 <strong>[Supabase Beta January 2023](https://supabase.com/blog/supabase-beta-january-2023)</strong><br />
 Blog - Supabase | Feb 7, 2023
 <hr />
@@ -118,9 +122,5 @@ Nx Devtools - Medium | Jan 18, 2023
 
 <strong>[QA and collaborate directly on branch deploy URLs](https://netlify.com/blog/qa-and-collaborate-directly-on-branch-deploy-urls/)</strong><br />
 Netlify RSS | Jan 17, 2023
-<hr />
-
-<strong>[Writing a tiny tRPC client](https://trpc.io/blog/tinyrpc-client)</strong><br />
-tRPC Blog | Jan 17, 2023
 <hr />
 
