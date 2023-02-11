@@ -9,19 +9,19 @@ Nx Devtools - Medium | Feb 9, 2023
 <hr />
 
 <strong>[Supabase Beta January 2023](https://supabase.com/blog/supabase-beta-january-2023)</strong><br />
-Blog - Supabase | Feb 7, 2023
+Blog - Supabase | Feb 8, 2023
 <hr />
 
 <strong>[Supabase Clippy: ChatGPT for Supabase Docs](https://supabase.com/blog/chatgpt-supabase-docs)</strong><br />
+Blog - Supabase | Feb 7, 2023
+<hr />
+
+<strong>[Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)</strong><br />
 Blog - Supabase | Feb 6, 2023
 <hr />
 
 <strong>[ I tried the Angular Standalone migration, and here is the result ](https://timdeschryver.dev/blog/i-tried-the-angular-standalone-migration-and-here-is-the-result)</strong><br />
  Tim Deschryver  | Feb 6, 2023
-<hr />
-
-<strong>[Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)</strong><br />
-Blog - Supabase | Feb 5, 2023
 <hr />
 
 <strong>[WebStorm announces official support for Astro](https://astro.build/blog/astro-webstorm-support/)</strong><br />
